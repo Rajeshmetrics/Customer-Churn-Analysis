@@ -24,7 +24,6 @@ churn-analysis/
 
 The notebook follows a linear **ingest → clean → merge → analyze → visualize** pipeline:
 
-![Customer Churn Analysis Workflow](assets/workflow_diagram.png)
 
 | Step | Description |
 |---|---|
